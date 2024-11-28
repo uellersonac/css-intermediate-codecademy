@@ -1,0 +1,106 @@
+* {
+  font-family: Helvetica;
+
+  background-color: black;
+  color: seashell;
+  opacity: 0.9;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+
+}
+
+main {
+  display: inline-flex;
+  width: 100%;
+  flex-direction: column;
+  margin-top: 70px;
+  align-items: center;
+}
+
+
+#tea{
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 1000px;
+}
+
+#tea .image img{
+  height: 200px;
+  width: 300px;
+  padding: 10px;
+}
+
+#header_container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  z-index: 10;
+  width: 100%;
+  height: 69px;
+  border-bottom: 1px solid seashell;
+}
+
+#logo {
+  display: inline;
+  margin-left: 10px;
+}
+
+#logo img{
+  height: 50px;
+}
+
+#navbar {
+  display: inline;
+}
+
+#navbar ul{
+  list-style: none;
+  text-decoration: underline;
+  display: inline-flex; 
+  margin: 0;
+}
+
+#navbar li{
+  margin: 0 10px;
+}
+
+#mission {
+  background-image: url("../images/img-mission-background.jpg");
+  background-size:cover;
+  background-position: center;
+  height: 700px;
+  max-width: 1200px;
+  width: 100%;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#mission_phrase h2, h4{
+  margin: 0;
+  box-sizing: border-box;
+  padding: 10px;
+  width: 100%;
+}
+
+#mission_phrase{
+  text-align: center;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#locations {
+
+}
