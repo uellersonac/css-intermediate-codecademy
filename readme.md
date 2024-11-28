@@ -7,4 +7,4 @@ Site estático, utilizando de forma pura:
 - CSS
 
 # Especificação de design
-(assets/images/design-spec.jpg)
+![Imagem do desig do site](assets/images/design-spec.jpg)
