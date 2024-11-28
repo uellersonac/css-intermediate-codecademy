@@ -3,8 +3,8 @@ Projeto proposto pela codecademy no curso: *CSS intermediate*. Foram utilizados 
 
 # Tecnologia
 Site estático, utilizando de forma pura:
-- HTML
-- CSS
+- HTML5
+- CSS3
 
 # Especificação de design
 ![Imagem do desig do site](assets/images/design-spec.jpg)
