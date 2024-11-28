@@ -1,5 +1,5 @@
 # Tea Cozy
-Projeto proposto pela codecademy no módulo de CSS intermediate.
+Projeto proposto pela codecademy no curso: *CSS intermediate*.
 
 # Tecnologia
 Site estático, utilizando de forma pura:
